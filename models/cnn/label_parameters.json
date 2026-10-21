@@ -1,0 +1,24 @@
+{
+  "BTD_ASH": -0.3,
+  "BTD_SEED": -0.7,
+  "MIN_ASH_PIXELS": 6,
+  "MIN_ASH_SEEDS": 2,
+  "ASH_DISTANCE_KM": 30.0,
+  "SO2_PERCENTILE": 95,
+  "SO2_SIGMA": 3.0,
+  "MIN_SO2_PIXELS": 10,
+  "CLOUD_BRIGHT": 0.25,
+  "CLOUD_SOFT": 0.12,
+  "CLOUD_COLD_DELTA": 10.0,
+  "SO2_THRESHOLD": 0.001589336694451049,
+  "class_names": [
+    "Ash candidate",
+    "SO2-rich candidate",
+    "Mixed candidate",
+    "Meteorological cloud candidate",
+    "Sea/background"
+  ],
+  "reference_type": "rule_based_candidates",
+  "so2_source": "/content/drive/MyDrive/Mount_Ruang_Final_2024/Ruang_SO2_20240417.tif",
+  "stack_source": "/content/drive/MyDrive/Mount_Ruang_Eruption_2024/04_CNN_Sentinel3/Gunung_Ruang_Sentinel3_Stack.tif"
+}

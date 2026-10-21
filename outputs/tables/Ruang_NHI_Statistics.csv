@@ -1,0 +1,4 @@
+system:index,acquisition_UTC,date,extreme_area_m2,high_area_m2,mid_low_area_m2,scene_cloud_percent,.geo
+0,2024-04-17 02:07,2024-04-17,0.0,0.0,0.0,9.59867766759682,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,2024-04-22 02:06,2024-04-22,0.0,0.0,0.0,79.7186416892991,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,2024-04-27 02:07,2024-04-27,0.0,0.0,0.0,47.201076058543,"{""type"":""MultiPoint"",""coordinates"":[]}"

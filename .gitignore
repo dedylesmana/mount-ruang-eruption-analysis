@@ -1,0 +1,29 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Local environment variables
+.env
+.env.*
+
+# QGIS backup and temporary files
+*.qgz~
+*.qgs~
+*.qgs.bak
+*.qgd-wal
+*.qgd-shm
+
+# Temporary files
+*.tmp
+*.temp

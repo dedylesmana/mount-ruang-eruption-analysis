@@ -1,0 +1,9 @@
+{
+  "test_accuracy": 0.972972972972973,
+  "macro_f1_over_active_classes": 0.6457522242290454,
+  "test_patches": 962,
+  "reference": "rule_based_labels",
+  "classes_without_test_samples": [
+    "SO2-rich candidate"
+  ]
+}

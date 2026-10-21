@@ -1,0 +1,6 @@
+class_id,class_name,reference_pixels,predicted_pixels
+0,Ash candidate,0,0
+1,SO2-rich candidate,852,1159
+2,Mixed candidate,0,0
+3,Meteorological cloud candidate,11769,8610
+4,Sea/background,25796,20093
